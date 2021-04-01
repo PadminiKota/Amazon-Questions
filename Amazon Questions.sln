@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Most Common Word", "Amazon Questions\Most Common Word.csproj", "{91436016-0FCD-4979-B04E-2BA984877B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substrings with distinct K", "Substrings with distinct K\Substrings with distinct K.csproj", "{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top K Frequently Mentioned", "Top K Frequently Mentioned\Top K Frequently Mentioned.csproj", "{DC25595A-3EB4-448D-867B-60DC7895A874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91436016-0FCD-4979-B04E-2BA984877B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382B82C6-0D8B-42A3-8BB6-D70FD932C4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC25595A-3EB4-448D-867B-60DC7895A874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
